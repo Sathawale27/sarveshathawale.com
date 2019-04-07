@@ -1,0 +1,7 @@
+url: http://sarveshathawale.com
+
+name: Sarvesh Athawale
+
+collections:
+  blogs:
+    output: true
