@@ -5,3 +5,5 @@ name: Sarvesh Athawale
 collections:
   blogs:
     output: true
+  365daysofsomething:
+    output: true
