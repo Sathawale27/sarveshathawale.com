@@ -1,2 +1,4 @@
+---
 layout: none
 permalink: .well-known/assetlinks.json
+---
