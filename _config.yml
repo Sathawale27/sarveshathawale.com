@@ -2,6 +2,8 @@ url: http://sarveshathawale.com
 
 name: Sarvesh Athawale
 
+include: [".well-known"]
+
 collections:
   blogs:
     output: true
