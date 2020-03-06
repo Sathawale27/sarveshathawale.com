@@ -1,9 +1,0 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.sarveshathawale",
-    "sha256_cert_fingerprints":
-    ["95:54:7B:F0:B9:96:66:4E:6B:D9:A4:E0:6D:91:BF:03:B5:E7:CB:5B:E5:F9:34:39:B0:85:3F:6D:DF:45:95:44"]
-  }
-}]
